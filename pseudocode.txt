@@ -1,0 +1,23 @@
+Program Hospital_Admission
+
+Mulai
+1. Pasien datang ke loket pendaftaran rumah sakit
+2. Apakah pasien BPJS?
+    Jika BPJS maka registrasi untuk pasien BPJS
+    Jika Non BPJS maka registrasi untuk pasien non BPJS
+3. setelah registrasi menunggu di ruang tunggu
+4. menuju ruang periksa
+5. Apakah pasien baru?
+    Jika pasien baru maka mendapat kartu kontrol dan mendapat resep
+    Jika pasien lama maka hanya mendapat resep
+6. Apakah pasien BPJS?
+    Jika BPJS maka menuju ke apotek BPJS
+    Jika non BPJS maka menuju ke apotek umum
+7. Selesai
+
+
+
+
+
+
+
